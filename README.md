@@ -8,7 +8,8 @@
 
 "DURATION" : 4 WEEKS
 
-"MENTOR" : NEELA SANTOSH# Weather
+"MENTOR" : NEELA SANTOSH
+
 
 REST API Client
 
